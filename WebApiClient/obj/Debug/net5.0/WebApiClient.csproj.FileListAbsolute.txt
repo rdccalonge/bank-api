@@ -1,0 +1,16 @@
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.exe
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.deps.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.runtimeconfig.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.runtimeconfig.dev.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\ref\WebApiClient.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\bin\Debug\net5.0\WebApiClient.pdb
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.AssemblyInfoInputs.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.AssemblyInfo.cs
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.csproj.CoreCompileInputs.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\ref\WebApiClient.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.pdb
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.genruntimeconfig.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\WebApiClient\obj\Debug\net5.0\WebApiClient.csprojAssemblyReference.cache

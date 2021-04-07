@@ -1,0 +1,15 @@
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\Utilities.deps.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\Utilities.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\ref\Utilities.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\Utilities.pdb
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.csprojAssemblyReference.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.pdb
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\Utilities.runtimeconfig.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\bin\Debug\net5.0\Utilities.runtimeconfig.dev.json
+C:\Users\Renz\source\repos\Erni Exam\BankApplication\Utilities\obj\Debug\net5.0\Utilities.genruntimeconfig.cache
